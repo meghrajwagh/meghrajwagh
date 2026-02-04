@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Personal Flutter Project<br/>
-- 🌱 I’m currently learning Dart/Flutter, Frontend<br/>
+<!-- - 🔭 I’m currently working on Personal Flutter Project<br/> -->
+<!-- - 🌱 I’m currently learning Dart/Flutter, Frontend<br/> -->
 
 
 ## 🌐 Socials:
